@@ -1,0 +1,12 @@
+C:\Users\BogdanHristich\source\repos\Practik1(ex2)\Polynom\bin\Debug\Polynom.dll
+C:\Users\BogdanHristich\source\repos\Practik1(ex2)\Polynom\bin\Debug\Polynom.pdb
+C:\Users\BogdanHristich\source\repos\Practik1(ex2)\Polynom\obj\Debug\Polynom.csprojAssemblyReference.cache
+C:\Users\BogdanHristich\source\repos\Practik1(ex2)\Polynom\obj\Debug\Polynom.csproj.CoreCompileInputs.cache
+C:\Users\BogdanHristich\source\repos\Practik1(ex2)\Polynom\obj\Debug\Polynom.dll
+C:\Users\BogdanHristich\source\repos\Practik1(ex2)\Polynom\obj\Debug\Polynom.pdb
+C:\Users\BogdanHristich\Desktop\EPAM\Практика\Task2\Polynom\bin\Debug\Polynom.dll
+C:\Users\BogdanHristich\Desktop\EPAM\Практика\Task2\Polynom\bin\Debug\Polynom.pdb
+C:\Users\BogdanHristich\Desktop\EPAM\Практика\Task2\Polynom\obj\Debug\Polynom.csprojAssemblyReference.cache
+C:\Users\BogdanHristich\Desktop\EPAM\Практика\Task2\Polynom\obj\Debug\Polynom.csproj.CoreCompileInputs.cache
+C:\Users\BogdanHristich\Desktop\EPAM\Практика\Task2\Polynom\obj\Debug\Polynom.dll
+C:\Users\BogdanHristich\Desktop\EPAM\Практика\Task2\Polynom\obj\Debug\Polynom.pdb

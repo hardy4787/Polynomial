@@ -1,0 +1,10 @@
+C:\Users\BogdanHristich\source\repos\Practik1(ex2)\Practik1(ex2)\bin\Debug\Practik1(ex2).exe.config
+C:\Users\BogdanHristich\source\repos\Practik1(ex2)\Practik1(ex2)\bin\Debug\Practik1(ex2).exe
+C:\Users\BogdanHristich\source\repos\Practik1(ex2)\Practik1(ex2)\bin\Debug\Practik1(ex2).pdb
+C:\Users\BogdanHristich\source\repos\Practik1(ex2)\Practik1(ex2)\bin\Debug\Polynom.dll
+C:\Users\BogdanHristich\source\repos\Practik1(ex2)\Practik1(ex2)\bin\Debug\Polynom.pdb
+C:\Users\BogdanHristich\source\repos\Practik1(ex2)\Practik1(ex2)\obj\Debug\Practik1(ex2).csprojAssemblyReference.cache
+C:\Users\BogdanHristich\source\repos\Practik1(ex2)\Practik1(ex2)\obj\Debug\Practik1(ex2).csproj.CoreCompileInputs.cache
+C:\Users\BogdanHristich\source\repos\Practik1(ex2)\Practik1(ex2)\obj\Debug\Practik1(ex2).csproj.CopyComplete
+C:\Users\BogdanHristich\source\repos\Practik1(ex2)\Practik1(ex2)\obj\Debug\Practik1(ex2).exe
+C:\Users\BogdanHristich\source\repos\Practik1(ex2)\Practik1(ex2)\obj\Debug\Practik1(ex2).pdb
